@@ -5,7 +5,6 @@ dependencies:
 build_targets:
   - name: default
     commands:
-      - env
       - python -c "print('DONE')"
 
 ci:
